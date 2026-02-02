@@ -14,6 +14,7 @@ function add(a, b) {
     return a+b;
 }
 
+console.log("hello");
 console.log(add.toString());
 console.log(typeof add(1, 2).toString());
 
