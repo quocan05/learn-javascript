@@ -9,5 +9,5 @@ if(a%2 == 0){
 }  else {
     document.write("not ok");
 }
-
+console.log("nhunhuhnhnhn")
 
