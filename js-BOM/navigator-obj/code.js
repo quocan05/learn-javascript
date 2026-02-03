@@ -10,3 +10,4 @@ console.log("navigator.language: "+navigator.language);
 console.log("navigator.userAgent: "+navigator.userAgent);  
 console.log("navigator.platform: "+navigator.platform);  
 console.log("navigator.onLine: "+navigator.onLine); 
+console.log("aloooooooo")
